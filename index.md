@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home 2022/2023
 nav_order: 0
 ---
 
